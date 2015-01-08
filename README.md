@@ -1,4 +1,4 @@
-This file covers following topics:
+This project covers following topics:
 
 > module bootstrapping , auto-bootstrping 
 > configuration, run methods, $provide
